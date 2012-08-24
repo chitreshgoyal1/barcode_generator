@@ -8,4 +8,7 @@ Barcode Generator
     3. Auto Detect Screen Resolution.
     
     
+Database : menu
+        table: menu_link
+            columns: id, parent_id, name
 Chitresh Goyal
